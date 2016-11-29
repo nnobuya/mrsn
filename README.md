@@ -1,13 +1,13 @@
 # mrsn
+
+<img src="./fig/mrsn.png" title="jet">
+
 The r-process nucleosynthesis in magnetorotational core-collapse supernovae. The numerical data of trajectories and nucleosynthesis yields based on our papers.
 
 <ul>
 <li>ntt2015: Nishimura, Takiwaki & Thielemann (2015, ApJ 810 109).</li>
 <li>nstyt2017: Nishimura, Sawai, Takiwaki, Yamada & Thielemann (in prep. arXiv:1611.02280) </li>
 </ul>
-
-<img src="./fig/mrsn.png" title="jet">
-
 
 **This repository is still in preparation.**
 
