@@ -1,4 +1,4 @@
-# mrsn
+# mrsn: data for r-process nucleosynthesis
 
 <img src="./fig/mrsn.png" title="jet">
 
