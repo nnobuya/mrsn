@@ -29,7 +29,7 @@ B12TW4.00:   8.57000e-02
 
 - other tools
 
-plot_x-az.gp: plot script for Gnupulot, we only tested on the latest version 5.0
+plot_x-az.gp: plot script for Gnuplot, we only tested on the latest version 5.0
 
 
 
