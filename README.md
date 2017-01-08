@@ -6,7 +6,7 @@ The r-process nucleosynthesis in magnetorotational core-collapse supernovae. The
 
 <ul>
 <li>ntt2015: Nishimura, Takiwaki & Thielemann (2015, ApJ 810 109).</li>
-<li>nstyt2017: Nishimura, Sawai, Takiwaki, Yamada & Thielemann (in prep. arXiv:1611.02280) </li>
+<li>nst2017: Nishimura, Sawai, Takiwaki, Yamada & Thielemann (in prep. arXiv:1611.02280) </li>
 </ul>
 
 **This repository is still in preparation.**
