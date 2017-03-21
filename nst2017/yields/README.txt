@@ -3,7 +3,7 @@
 README Document: Nucleosynthesis yields of NST*2017
 
 
-This is a set of nucleosynthesis yields calculated by NST*2017 (Nishimura, Sawai, Takiwaki, Yamada and Thielemann, 2017, ApJL submitted; arXiv:1611.02280), which includes resutls of five different explosion models. These yields are final abundances after decay, so that only stable nuclei (and long half-life Th and T) are listed.
+This is a set of nucleosynthesis yields calculated by NST*2017 (Nishimura, Sawai, Takiwaki, Yamada and Thielemann, 2017, ApJL 836:L21), which includes resutls of five different explosion models. These yields are final abundances after decay, so that only stable nuclei (and long half-life Th and T) are listed.
 
 Note that, the name of models is written as L0.10, of which number is a scale factor of neutrino luminosity in the paper.
 
