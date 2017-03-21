@@ -5,8 +5,8 @@
 The r-process nucleosynthesis in magnetorotational core-collapse supernovae. The numerical data of trajectories and nucleosynthesis yields based on our papers.
 
 <ul>
-<li>ntt2015: Nishimura, Takiwaki & Thielemann (2015, ApJ 810 109).</li>
-<li>nst2017: Nishimura, Sawai, Takiwaki, Yamada & Thielemann (2017, ApJL 836 L21) </li>
+<li>NTT2015: Nishimura, Takiwaki & Thielemann (2015, ApJ 810 109).</li>
+<li>NST2017: Nishimura, Sawai, Takiwaki, Yamada & Thielemann (2017, ApJL 836 L21) </li>
 </ul>
 
 **This repository is still in preparation.**
