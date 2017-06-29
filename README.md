@@ -11,7 +11,7 @@ The r-process nucleosynthesis in magnetorotational core-collapse supernovae. The
 
 **This repository is still in preparation.**
 
-- See Website: http://www.astro.keele.ac.uk/~nobuya/mrsn
+- See Website: http://www2.yukawa.kyoto-u.ac.jp/~nobuya.nishimura/mrsn
 
 Nobuya Nishimura
 
