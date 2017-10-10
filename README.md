@@ -18,4 +18,4 @@ Nobuya Nishimura
 
 Acknowledgement
 
-We used computer facilities at Center for Computational Astrophysics (http://www.cfca.nao.ac.jp), National Astronomical Obervatory of Japan.
+We used computer facilities at Center for Computational Astrophysics (http://www.cfca.nao.ac.jp), National Astronomical Observatory of Japan.
