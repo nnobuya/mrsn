@@ -4,7 +4,7 @@ se ou 'fig_x-a.pdf'
 
 se log y
 
-se xr [60:240]
+se xr [0:240]
 se yr [1e-8:1]
 
 se xl 'mass number, A'
